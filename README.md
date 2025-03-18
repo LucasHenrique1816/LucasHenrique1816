@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasHenrique1816
-- 👀 I’m interested in Web Design, HMTL, CSS, Javascript, React and languages like Python and C+. Looking for opportunities and projects for experience and growth
+- 👀 I’m interested in Web Design, HMTL, CSS, Javascript, React, Typescript, Node.js and languages like Python and C+. Looking for opportunities and projects for experience and growth
 - 🌱 I’m currently learning Information Systems
 - 💞️ I’m looking to collaborate on Web pages and aplication projects
 - 📫 How to reach me luhenrique1@hotmail.com    
